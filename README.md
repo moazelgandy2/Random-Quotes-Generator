@@ -2,6 +2,10 @@
 
 This is a simple random quotes generator created using HTML, JavaScript, and the Sketchy theme from Bootswatch.
 
+## Live Demo
+
+Check out the live demo [here](https://moazelgandy2.github.io/Random-Quotes-Generator/).
+
 ## Features
 
 - Generates random quotes on the click of a button.

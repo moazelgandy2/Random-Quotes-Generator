@@ -31,8 +31,8 @@ Check out the live demo [here](https://moazelgandy2.github.io/Random-Quotes-Gene
 
 ## Credits
 
-1. Bootstrap (https://getbootstrap.com/)<i class="fab fa-bootstrap"></i>
-2. Bootswatch (https://bootswatch.com/)<i class="fas fa-paint-brush"></i>
+1. Bootstrap (https://getbootstrap.com/)
+2. Bootswatch (https://bootswatch.com/)
 
 ## License
 
